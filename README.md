@@ -17,6 +17,7 @@ Full-stack and infrastructure engineer in Thailand. Six years, self-taught.
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 
 ---
@@ -30,8 +31,13 @@ demand: a pattern earns its place when the problem asks for it, not because
 it is on a list.
 
 **Now** — a multi-tenant webhook ingestion platform in production, and the
-infrastructure under it: Terraform, and a Kubernetes cluster spanning
-on-prem and cloud over a WireGuard mesh.
+infrastructure under it: Terraform, and a seven-node k0s cluster. I also run a
+smaller k3s cluster of my own, spanning on-prem and cloud over a WireGuard
+mesh, which is where I try things before they touch anyone else's work.
+
+I have also moved a production service off one cloud onto another — Cloud Run
+to a self-hosted registry and static host — which taught me more about what a
+platform actually gives you than building on it did.
 
 ---
 

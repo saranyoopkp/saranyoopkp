@@ -39,6 +39,12 @@ I have also moved a production service off one cloud onto another — Cloud Run
 to a self-hosted registry and static host — which taught me more about what a
 platform actually gives you than building on it did.
 
+The clearest number I have: a multi-tenant inbox that took 14.4 seconds to
+load for its busiest users, and 0.09 after the row-level-security policy was
+replaced — checked against the old figures for both rows lost and rows
+leaked, because a query that got faster by showing the wrong tenant's data
+is not a fix.
+
 ---
 
 ### [dotfiles](https://github.com/saranyoopkp/dotfiles) — instruction architecture for coding agents

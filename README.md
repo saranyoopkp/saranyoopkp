@@ -80,5 +80,5 @@ result.
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-profile.saranyoo--pkp.workers.dev-0A0A0A?style=flat-square)](https://profile.saranyoo-pkp.workers.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranyoo-phetkamphaeng-517508242/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranyoopkp/)
 [![Email](https://img.shields.io/badge/saranyoo.pkp@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saranyoo.pkp@gmail.com)
